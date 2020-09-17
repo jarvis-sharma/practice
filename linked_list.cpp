@@ -86,6 +86,7 @@ int main()
     insertend(2);
     insertend(2);
     dis();
+    cout<<"\nReversing the linked list\n";
     reverse();
     cout << endl;
     dis();
